@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [interfaces](../modules/interfaces.md) > [ClockConstructor](../interfaces/interfaces.clockconstructor.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [interfaces](../modules/interfaces.md) > [ClockConstructor](../interfaces/interfaces.clockconstructor.md)
 
-# Interface: ClockConstructor
+# ClockConstructor
 
 ## Hierarchy
 

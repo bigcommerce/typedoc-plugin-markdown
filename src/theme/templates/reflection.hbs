@@ -1,24 +1,35 @@
 {{> header}}
-{{~#if model.displayReadme ~}}
-{{#getMarkdownFromHtml}}{{#markdown}}{{{model.readme}}}{{/markdown}}{{/getMarkdownFromHtml}}
+
+{{~#if model.displayReadme~}}
+{{#getMarkdownFromHtml}}
+{{#markdown}}
+{{{model.readme}}}
+{{/markdown}}
+{{/getMarkdownFromHtml}}
 {{~/if~}}
+
 {{getNewLine}}
 {{getNewLine}}
+
 {{~#with model~}}
 {{~#if hasComment~}}
 {{> comment}}
 {{~/if~}}
-{{~/with}}
+{{/with}}
+
 {{~#if model.typeParameters}}
 {{#getHeadingLevel '##'}}{{/getHeadingLevel}} Type parameters
-{{~#with model}}{{> typeParameters}}{{/with}}
+
+{{#with model}}{{> typeParameters}}{{/with}}
 {{~/if}}
-{{~#if model.typeHierarchy~}}
+
+{{~#if model.typeHierarchy}}
 {{#getHeadingLevel '##'}}{{/getHeadingLevel}} Hierarchy
 
-{{#with model.typeHierarchy~}}{{> hierarchy}}{{/with}}
+{{#with model.typeHierarchy}}{{> hierarchy}}{{/with}}
 {{getNewLine}}
-{{~/if~}}
+{{~/if}}
+
 {{~#if model.implementedTypes}}
 {{#getHeadingLevel '##'}}{{/getHeadingLevel}} Implements
 
@@ -27,6 +38,7 @@
 {{/each}}
 {{getNewLine}}
 {{~/if}}
+
 {{~#if model.implementedBy}}
 {{#getHeadingLevel '##'}}{{/getHeadingLevel}} Implemented by
 
@@ -35,11 +47,14 @@
 {{/each}}
 {{getNewLine}}
 {{~/if}}
+
 {{~#if model.signatures}}
 {{#getHeadingLevel '##'}}{{/getHeadingLevel}} Callable
+
 {{#with model}}{{> member.signatures}}{{/with}}
 {{getNewLine}}
 {{~/if}}
+
 {{~#if model.indexSignature}}
 {{#getHeadingLevel '##'}}{{/getHeadingLevel}} Indexable
 
@@ -55,6 +70,7 @@
 {{~/if}}
 {{getNewLine}}
 {{~/if}}
+
 {{~#with model}}
 {{#ifDisplayIndex this}}
 {{> index}}

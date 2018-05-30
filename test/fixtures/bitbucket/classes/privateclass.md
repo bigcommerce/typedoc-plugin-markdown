@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [PrivateClass](../classes/privateclass.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [PrivateClass](../classes/privateclass.md)
 
-# Class: PrivateClass
+# PrivateClass
 
 A class that is documented as being private.
 

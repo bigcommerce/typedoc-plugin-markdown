@@ -1,3 +1,4 @@
+import { ReflectionKind } from 'typedoc/dist/lib/models';
 import { ReflectionGroup } from 'typedoc/dist/lib/models/ReflectionGroup';
 import { ThemeService } from '../theme.service';
 
@@ -8,7 +9,11 @@ import { ThemeService } from '../theme.service';
  */
 export function ifGroupContainesVisibleItems(group: ReflectionGroup, opts: any) {
   const options = ThemeService.getOptions();
-  if (!options.excludePrivate || !group.allChildrenArePrivate) {
+
+  if (
+    (!options.excludePrivate || !group.allChildrenArePrivate) &&
+    (group.someChildrenAreExported || group.kind === ReflectionKind.Method || group.kind === ReflectionKind.Property)
+  ) {
     return opts.fn(this);
   } else {
     return opts.inverse(this);

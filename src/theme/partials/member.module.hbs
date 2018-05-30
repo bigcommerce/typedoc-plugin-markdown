@@ -1,5 +1,7 @@
 ## {{kindString }} {{ name }}
+{{#ifDisplayIndex this}}
 {{> index}}
+{{/ifDisplayIndex}}
 {{#each groups}}
 {{#unless allChildrenHaveOwnDocument}}
 {{> members.group }}

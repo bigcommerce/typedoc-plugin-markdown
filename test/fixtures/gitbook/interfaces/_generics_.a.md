@@ -3,6 +3,7 @@
 A generic interface.
 
 # Type parameters
+
 #### T 
 
 The generic type parameter.
@@ -21,7 +22,7 @@ The generic type parameter.
 
 ▸ **getT**(): `T`
 
-*Defined in [generics.ts:30](https://github.com/tgreyjs/typedoc-plugin-markdown/blob/master/test/src/generics.ts#L30)*
+*Defined in [generics.ts:30](https://github.com/bigcommerce/typedoc-plugin-markdown/blob/master/test/src/generics.ts#L30)*
 
 A generic member function.
 

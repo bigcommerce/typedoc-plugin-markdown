@@ -11,6 +11,8 @@ export function getSourceFile(fileName: string, line: string, url: string) {
     const bitbucketUrl = `${options.mdSourceRepo}/src/master/${fileName}`;
     const bitbucketParams = `fileviewer=file-view-default#${fileName}-${line}`;
     md += `[${fileName}:${line}](${bitbucketUrl}?${bitbucketParams})`;
+  } else if (url && options.mdSourceRepo) {
+    md += `[${fileName}:${line}](${url.replace(/https:\/\/github.com(\/[-\w]+){2}/, options.mdSourceRepo)})`;
   } else if (url) {
     md += `[${fileName}:${line}](${url})`;
   } else {

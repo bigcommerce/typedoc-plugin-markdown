@@ -1,8 +1,9 @@
-[typedoc-plugin-markdown](../README.md) > [MySecondClass](../classes/mysecondclass.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [MySecondClass](../classes/mysecondclass.md)
 
-# Class: MySecondClass
+# MySecondClass
 
 ## Type parameters
+
 #### T 
 ## Hierarchy
 

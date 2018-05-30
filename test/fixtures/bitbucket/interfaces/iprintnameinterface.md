@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [IPrintNameInterface](../interfaces/iprintnameinterface.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [IPrintNameInterface](../interfaces/iprintnameinterface.md)
 
-# Interface: IPrintNameInterface
+# IPrintNameInterface
 
 This is a interface inheriting from two other interfaces.
 

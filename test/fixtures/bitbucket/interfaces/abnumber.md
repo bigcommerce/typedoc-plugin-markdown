@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [ABNumber](../interfaces/abnumber.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [ABNumber](../interfaces/abnumber.md)
 
-# Interface: ABNumber
+# ABNumber
 
 An interface extending a generic interface and setting its type parameter.
 

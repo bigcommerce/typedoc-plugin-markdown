@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [flattenedClass](../classes/flattenedclass.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [flattenedClass](../classes/flattenedclass.md)
 
-# Class: flattenedClass
+# flattenedClass
 
 A class that contains members with flattened properties.
 
@@ -9,10 +9,6 @@ A class that contains members with flattened properties.
 **flattenedClass**
 
 ## Index
-
-### Constructors
-
-* [constructor](flattenedclass.md#markdown-header-constructor)
 
 ### Properties
 

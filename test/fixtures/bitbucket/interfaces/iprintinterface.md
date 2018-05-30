@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [IPrintInterface](../interfaces/iprintinterface.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [IPrintInterface](../interfaces/iprintinterface.md)
 
-# Interface: IPrintInterface
+# IPrintInterface
 
 This is a simple interface.
 

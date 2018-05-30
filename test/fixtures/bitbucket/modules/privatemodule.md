@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [PrivateModule](../modules/privatemodule.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [PrivateModule](../modules/privatemodule.md)
 
-# Module: PrivateModule
+# PrivateModule
 
 A module that is documented as being private.
 

@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [interfaces](../modules/interfaces.md) > [Square](../interfaces/interfaces.square.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [interfaces](../modules/interfaces.md) > [Square](../interfaces/interfaces.square.md)
 
-# Interface: Square
+# Square
 
 ## Hierarchy
 

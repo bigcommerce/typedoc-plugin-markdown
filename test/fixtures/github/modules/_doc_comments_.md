@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > ["doc-comments"](../modules/_doc_comments_.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > ["doc-comments"](../modules/_doc_comments_.md)
 
-# External module: "doc-comments"
+# "doc-comments"
 
 ## Index
 
@@ -19,7 +19,7 @@
 
 **● commentsWithTags**: *`boolean`* = false
 
-*Defined in [doc-comments.ts:27](https://github.com/tgreyjs/typedoc-plugin-markdown/blob/master/test/src/doc-comments.ts#L27)*
+*Defined in [doc-comments.ts:27](https://github.com/bigcommerce/typedoc-plugin-markdown/blob/master/test/src/doc-comments.ts#L27)*
 
 *__name__*: AbstractMetadataModule
 
@@ -44,7 +44,7 @@ ___
 
 **● generalComments**: *`boolean`* = false
 
-*Defined in [doc-comments.ts:9](https://github.com/tgreyjs/typedoc-plugin-markdown/blob/master/test/src/doc-comments.ts#L9)*
+*Defined in [doc-comments.ts:9](https://github.com/bigcommerce/typedoc-plugin-markdown/blob/master/test/src/doc-comments.ts#L9)*
 
 Additionally you can link to other classes, members or functions using double square brackets.
 

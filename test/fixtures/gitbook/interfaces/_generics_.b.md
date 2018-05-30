@@ -3,6 +3,7 @@
 A generic interface with two type parameters.
 
 # Type parameters
+
 #### T 
 
 The first generic type parameter.
@@ -25,7 +26,7 @@ The second generic type parameter.
 
 ▸ **getC**(): `C`
 
-*Defined in [generics.ts:53](https://github.com/tgreyjs/typedoc-plugin-markdown/blob/master/test/src/generics.ts#L53)*
+*Defined in [generics.ts:53](https://github.com/bigcommerce/typedoc-plugin-markdown/blob/master/test/src/generics.ts#L53)*
 
 A generic member function.
 
@@ -39,7 +40,7 @@ ___
 
 ▸ **setT**(value: *`T`*): `void`
 
-*Defined in [generics.ts:46](https://github.com/tgreyjs/typedoc-plugin-markdown/blob/master/test/src/generics.ts#L46)*
+*Defined in [generics.ts:46](https://github.com/bigcommerce/typedoc-plugin-markdown/blob/master/test/src/generics.ts#L46)*
 
 A generic member function.
 

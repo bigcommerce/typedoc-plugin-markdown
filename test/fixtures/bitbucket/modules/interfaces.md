@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [interfaces](../modules/interfaces.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [interfaces](../modules/interfaces.md)
 
-# Module: interfaces
+# interfaces
 
 ## Index
 

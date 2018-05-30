@@ -8,7 +8,6 @@ Examples taken from the TypeDoc 'classes' examples directory ([https://github.co
 
 * [BaseClass](../classes/_classes_.baseclass.md)
 * [GenericClass](../classes/_classes_.genericclass.md)
-* [InternalClass](../classes/_classes_.internalclass.md)
 * [NonGenericClass](../classes/_classes_.nongenericclass.md)
 * [SubClassA](../classes/_classes_.subclassa.md)
 * [SubClassB](../classes/_classes_.subclassb.md)

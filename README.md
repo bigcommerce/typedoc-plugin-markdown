@@ -1,15 +1,14 @@
-# typedoc-plugin-markdown
+# @bigcommerce/typedoc-plugin-markdown
 
-[![npm](https://img.shields.io/npm/v/typedoc-plugin-markdown.svg)](https://www.npmjs.com/package/typedoc-plugin-markdown)
-[![Build Status](https://travis-ci.org/tgreyjs/typedoc-plugin-markdown.svg?branch=master)](https://travis-ci.org/tgreyjs/typedoc-plugin-markdown)
-[![Greenkeeper badge](https://badges.greenkeeper.io/tgreyjs/typedoc-plugin-markdown.svg)](https://greenkeeper.io/)
-
-A plugin for [TypeDoc](https://github.com/TypeStrong/typedoc) that exposes a theme and additional arguments for rendering markdown.
+A plugin for [TypeDoc](https://github.com/TypeStrong/typedoc) that exposes a
+theme and additional arguments for rendering markdown. This is a forked version
+of [typedoc-plugin-markdown](https://github.com/tgreyjs/typedoc-plugin-markdown)
+that is modified to suit the needs of BigCommerce.
 
 ## Installation
 
 ```javascript
-npm install --save-dev typedoc typedoc-plugin-markdown
+npm install --save-dev typedoc @bigcommerce/typedoc-plugin-markdown
 ```
 
 ## Usage
@@ -37,10 +36,13 @@ $ node_modules/.bin/typedoc --theme markdown
 The plugin exposes the following additional arguments:
 
 * `--mdEngine <github|bitbucket|gitbook>`\
- The markdown rendering engine:\
- **"github":** Optimised for GitHub/CommonMark (Default).\
- **"bitbucket":** Renders markdown to support Bitbucket anchor linking and more.\
- **"gitbook":** Adds SUMMARY.md file to generate a book's table of contents and sets header levels to display correct sub-navigation menu. (*Optimised for newest version of GitBook*).
+  The markdown rendering engine:\
+  **"github":** Optimised for GitHub/CommonMark (Default).\
+  **"bitbucket":** Renders markdown to support Bitbucket anchor linking and
+  more.\
+  **"gitbook":** Adds SUMMARY.md file to generate a book's table of contents and
+  sets header levels to display correct sub-navigation menu. (*Optimised for
+  newest version of GitBook*).
 
 * `--mdHideSources`\
   Suppress source file linking from output.
@@ -51,8 +53,9 @@ The plugin exposes the following additional arguments:
 
 ## Example output
 
-* [Some general example output](https://github.com/tgreyjs/typedoc-plugin-markdown/tree/master/examples/out/README.md).
+* [Some general example output](https://github.com/bigcommerce/typedoc-plugin-markdown/tree/master/examples/out/README.md).
 
 ## Acknowledgements
 
-* Thanks to kimamula's [typedoc-markdown-theme](https://github.com/kimamula/typedoc-markdown-theme) for the inspiration behind this project.
+* Thanks to tgreyjs's original plugin -
+  [typedoc-plugin-markdown](https://github.com/tgreyjs/typedoc-plugin-markdown).

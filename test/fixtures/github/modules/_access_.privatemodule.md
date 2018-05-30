@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > ["access"](../modules/_access_.md) > [PrivateModule](../modules/_access_.privatemodule.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > ["access"](../modules/_access_.md) > [PrivateModule](../modules/_access_.privatemodule.md)
 
-# Module: PrivateModule
+# PrivateModule
 
 A module that is documented as being private.
 
@@ -20,7 +20,7 @@ A module that is documented as being private.
 
 ▸ **functionInsidePrivateModule**(): `void`
 
-*Defined in [access.ts:67](https://github.com/tgreyjs/typedoc-plugin-markdown/blob/master/test/src/access.ts#L67)*
+*Defined in [access.ts:67](https://github.com/bigcommerce/typedoc-plugin-markdown/blob/master/test/src/access.ts#L67)*
 
 **Returns:** `void`
 

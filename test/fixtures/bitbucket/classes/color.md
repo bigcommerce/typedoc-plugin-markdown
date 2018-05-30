@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [Color](../classes/color.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [Color](../classes/color.md)
 
-# Class: Color
+# Color
 
 ## Hierarchy
 

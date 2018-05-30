@@ -1,10 +1,11 @@
-[typedoc-plugin-markdown](../README.md) > [GenericClass](../classes/genericclass.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [GenericClass](../classes/genericclass.md)
 
-# Class: GenericClass
+# GenericClass
 
 This is a generic class.
 
 ## Type parameters
+
 #### T :  [BaseClass](baseclass.md)
 
 This a type parameter.

@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > ["default-export"](../modules/_default_export_.md) > [NotExportedClassName](../classes/_default_export_.notexportedclassname.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > ["default-export"](../modules/_default_export_.md) > [NotExportedClassName](../classes/_default_export_.notexportedclassname.md)
 
-# Class: NotExportedClassName
+# NotExportedClassName
 
 This class is exported under a different name. The exported name is "ExportedClassName"
 
@@ -13,10 +13,6 @@ export {NotExportedClassName as ExportedClassName};
 **NotExportedClassName**
 
 ## Index
-
-### Constructors
-
-* [constructor](_default_export_.notexportedclassname.md#constructor)
 
 ### Properties
 
@@ -36,7 +32,7 @@ export {NotExportedClassName as ExportedClassName};
 
 ⊕ **new NotExportedClassName**(): [NotExportedClassName](_default_export_.notexportedclassname.md)
 
-*Defined in [default-export.ts:21](https://github.com/tgreyjs/typedoc-plugin-markdown/blob/master/test/src/default-export.ts#L21)*
+*Defined in [default-export.ts:21](https://github.com/bigcommerce/typedoc-plugin-markdown/blob/master/test/src/default-export.ts#L21)*
 
 This is the constructor of the NotExportedClassName class.
 
@@ -52,7 +48,7 @@ ___
 
 **● notExportedProperty**: *`string`*
 
-*Defined in [default-export.ts:21](https://github.com/tgreyjs/typedoc-plugin-markdown/blob/master/test/src/default-export.ts#L21)*
+*Defined in [default-export.ts:21](https://github.com/bigcommerce/typedoc-plugin-markdown/blob/master/test/src/default-export.ts#L21)*
 
 Property of NotExportedClassName class.
 
@@ -66,7 +62,7 @@ ___
 
 ▸ **getNotExportedProperty**(): `string`
 
-*Defined in [default-export.ts:33](https://github.com/tgreyjs/typedoc-plugin-markdown/blob/master/test/src/default-export.ts#L33)*
+*Defined in [default-export.ts:33](https://github.com/bigcommerce/typedoc-plugin-markdown/blob/master/test/src/default-export.ts#L33)*
 
 Method of NotExportedClassName class.
 
