@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [interfaces](../modules/interfaces.md) > [Surface](../interfaces/interfaces.surface.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [interfaces](../modules/interfaces.md) > [Surface](../interfaces/interfaces.surface.md)
 
-# Interface: Surface
+# Surface
 
 ## Hierarchy
 

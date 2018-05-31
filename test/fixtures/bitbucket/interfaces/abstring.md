@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [ABString](../interfaces/abstring.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [ABString](../interfaces/abstring.md)
 
-# Interface: ABString
+# ABString
 
 An interface extending a generic interface and setting its type parameter.
 

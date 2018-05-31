@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [Size](../enums/size.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [Size](../enums/size.md)
 
-# Enumeration: Size
+# Size
 
 This comment is ignored, as the enumeration is already defined.
 

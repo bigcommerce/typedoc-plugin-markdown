@@ -1,10 +1,11 @@
-[typedoc-plugin-markdown](../README.md) > [B](../interfaces/b.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [B](../interfaces/b.md)
 
-# Interface: B
+# B
 
 A generic interface with two type parameters.
 
 ## Type parameters
+
 #### T 
 
 The first generic type parameter.

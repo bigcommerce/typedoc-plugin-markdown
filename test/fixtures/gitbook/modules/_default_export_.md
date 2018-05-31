@@ -7,7 +7,6 @@ Examples taken from the TypeDoc 'default-export' examples directory ([https://gi
 ### Classes
 
 * [DefaultExportedClass](../classes/_default_export_.defaultexportedclass.md)
-* [NotExportedClassName](../classes/_default_export_.notexportedclassname.md)
 
 ---
 

@@ -1,20 +1,17 @@
-[typedoc-plugin-markdown](../README.md) > [InternalClass](../classes/internalclass.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [InternalClass](../classes/internalclass.md)
 
-# Class: InternalClass
+# InternalClass
 
 This is an internal class, it is not exported.
 
 ## Type parameters
+
 #### TTT :  `keyof BaseClass`
 ## Hierarchy
 
 **InternalClass**
 
 ## Index
-
-### Constructors
-
-* [constructor](internalclass.md#markdown-header-constructor)
 
 ---
 

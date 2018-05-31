@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > ["interfaces"](../modules/_interfaces_.md) > [interfaces](../modules/_interfaces_.interfaces.md) > [Square](../interfaces/_interfaces_.interfaces.square.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > ["interfaces"](../modules/_interfaces_.md) > [interfaces](../modules/_interfaces_.interfaces.md) > [Square](../interfaces/_interfaces_.interfaces.square.md)
 
-# Interface: Square
+# Square
 
 ## Hierarchy
 
@@ -27,7 +27,7 @@
 
 *Inherited from [Shape](_interfaces_.interfaces.shape.md).[color](_interfaces_.interfaces.shape.md#color)*
 
-*Defined in [interfaces.ts:91](https://github.com/tgreyjs/typedoc-plugin-markdown/blob/master/test/src/interfaces.ts#L91)*
+*Defined in [interfaces.ts:91](https://github.com/bigcommerce/typedoc-plugin-markdown/blob/master/test/src/interfaces.ts#L91)*
 
 ___
 <a id="sidelength"></a>
@@ -36,7 +36,7 @@ ___
 
 **● sideLength**: *`number`*
 
-*Defined in [interfaces.ts:95](https://github.com/tgreyjs/typedoc-plugin-markdown/blob/master/test/src/interfaces.ts#L95)*
+*Defined in [interfaces.ts:95](https://github.com/bigcommerce/typedoc-plugin-markdown/blob/master/test/src/interfaces.ts#L95)*
 
 ___
 

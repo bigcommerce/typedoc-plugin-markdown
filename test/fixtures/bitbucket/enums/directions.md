@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [Directions](../enums/directions.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [Directions](../enums/directions.md)
 
-# Enumeration: Directions
+# Directions
 
 This is a simple Enumeration.
 

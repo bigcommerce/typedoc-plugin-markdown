@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [MyThirdClass](../classes/mythirdclass.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [MyThirdClass](../classes/mythirdclass.md)
 
-# Class: MyThirdClass
+# MyThirdClass
 
 ## Hierarchy
 

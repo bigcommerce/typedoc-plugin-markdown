@@ -1,8 +1,9 @@
-[typedoc-plugin-markdown](../README.md) > [MyFourthClass](../classes/myfourthclass.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [MyFourthClass](../classes/myfourthclass.md)
 
-# Class: MyFourthClass
+# MyFourthClass
 
 ## Type parameters
+
 #### K 
 #### V 
 ## Hierarchy

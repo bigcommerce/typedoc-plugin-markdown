@@ -1,10 +1,11 @@
-[typedoc-plugin-markdown](../README.md) > [moduleFunction](../modules/modulefunction.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [moduleFunction](../modules/modulefunction.md)
 
-# Module: moduleFunction
+# moduleFunction
 
 This is the module extending the function moduleFunction().
 
 ## Callable
+
 ▸ **moduleFunction**(arg: *`string`*): `string`
 
 *Defined in [functions.ts:150](https://bitbucket.org/owner/repository_name/src/master/functions.ts?fileviewer&amp;#x3D;file-view-default#functions.ts-150)*
@@ -20,15 +21,6 @@ This is a function that is extended by a module.
 **Returns:** `string`
 
 ## Index
-
-### Variables
-
-* [functionVariable](modulefunction.md#markdown-header-functionvariable)
-
-### Functions
-
-* [append](modulefunction.md#markdown-header-append)
-* [prepend](modulefunction.md#markdown-header-prepend)
 
 ---
 

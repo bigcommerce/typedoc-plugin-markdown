@@ -11,19 +11,6 @@ Examples taken from the TypeDoc 'generics' examples directory ([https://github.c
 * [MySecondClass](../classes/_generics_.mysecondclass.md)
 * [MyThirdClass](../classes/_generics_.mythirdclass.md)
 
-### Interfaces
-
-* [A](../interfaces/_generics_.a.md)
-* [AB](../interfaces/_generics_.ab.md)
-* [ABNumber](../interfaces/_generics_.abnumber.md)
-* [ABString](../interfaces/_generics_.abstring.md)
-* [B](../interfaces/_generics_.b.md)
-
-### Functions
-
-* [getGenericArray](_generics_.md#getgenericarray)
-* [testFunction](_generics_.md#testfunction)
-
 ---
 
 # Functions
@@ -34,7 +21,7 @@ Examples taken from the TypeDoc 'generics' examples directory ([https://github.c
 
 ▸ **getGenericArray**(): `Array`<`string`>
 
-*Defined in [generics.ts:83](https://github.com/tgreyjs/typedoc-plugin-markdown/blob/master/test/src/generics.ts#L83)*
+*Defined in [generics.ts:83](https://github.com/bigcommerce/typedoc-plugin-markdown/blob/master/test/src/generics.ts#L83)*
 
 A function returning a generic array with type parameters.
 
@@ -48,7 +35,7 @@ ___
 
 ▸ **testFunction**T(value: *`T`*): `T`
 
-*Defined in [generics.ts:15](https://github.com/tgreyjs/typedoc-plugin-markdown/blob/master/test/src/generics.ts#L15)*
+*Defined in [generics.ts:15](https://github.com/bigcommerce/typedoc-plugin-markdown/blob/master/test/src/generics.ts#L15)*
 
 A generic function
 

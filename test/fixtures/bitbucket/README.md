@@ -1,5 +1,5 @@
 
-#  typedoc-plugin-markdown
+# @bigcommerce/typedoc-plugin-markdown
 
 ## Index
 
@@ -19,25 +19,17 @@
 * [Color](classes/color.md)
 * [DefaultExportedClass](classes/defaultexportedclass.md)
 * [GenericClass](classes/genericclass.md)
-* [InternalClass](classes/internalclass.md)
 * [MyFirstClass](classes/myfirstclass.md)
 * [MyFourthClass](classes/myfourthclass.md)
 * [MySecondClass](classes/mysecondclass.md)
 * [MyThirdClass](classes/mythirdclass.md)
 * [NonGenericClass](classes/nongenericclass.md)
-* [NotExportedClassName](classes/notexportedclassname.md)
 * [SubClassA](classes/subclassa.md)
 * [SubClassB](classes/subclassb.md)
 * [Vector](classes/vector.md)
-* [flattenedClass](classes/flattenedclass.md)
 
 ### Interfaces
 
-* [A](interfaces/a.md)
-* [AB](interfaces/ab.md)
-* [ABNumber](interfaces/abnumber.md)
-* [ABString](interfaces/abstring.md)
-* [B](interfaces/b.md)
 * [INameInterface](interfaces/inameinterface.md)
 * [IPrintInterface](interfaces/iprintinterface.md)
 * [IPrintNameInterface](interfaces/iprintnameinterface.md)
@@ -57,20 +49,12 @@
 * [createSomething](#markdown-header-createsomething)
 * [exportedFunction](#markdown-header-exportedfunction)
 * [fakeProtectedFunction](#markdown-header-protected-fakeprotectedfunction)
-* [flattenedCallback](#markdown-header-flattenedcallback)
-* [flattenedIndexSignature](#markdown-header-flattenedindexsignature)
-* [flattenedParameter](#markdown-header-flattenedparameter)
 * [functionWithArguments](#markdown-header-functionwitharguments)
 * [functionWithDefaults](#markdown-header-functionwithdefaults)
 * [functionWithDocLink](#markdown-header-functionwithdoclink)
 * [functionWithOptionalValue](#markdown-header-functionwithoptionalvalue)
-* [functionWithRest](#markdown-header-functionwithrest)
 * [genericFunction](#markdown-header-genericfunction)
-* [getGenericArray](#markdown-header-getgenericarray)
-* [internalFunction](#markdown-header-internalfunction)
 * [multipleSignatures](#markdown-header-multiplesignatures)
-* [testFunction](#markdown-header-testfunction)
-* [variableFunction](#markdown-header-variablefunction)
 
 ---
 

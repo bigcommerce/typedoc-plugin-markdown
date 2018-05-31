@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [SubClassB](../classes/subclassb.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [SubClassB](../classes/subclassb.md)
 
-# Class: SubClassB
+# SubClassB
 
 This is a class that extends another class.
 

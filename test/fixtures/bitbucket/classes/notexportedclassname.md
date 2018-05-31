@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [NotExportedClassName](../classes/notexportedclassname.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [NotExportedClassName](../classes/notexportedclassname.md)
 
-# Class: NotExportedClassName
+# NotExportedClassName
 
 This class is exported under a different name. The exported name is "ExportedClassName"
 
@@ -13,10 +13,6 @@ export {NotExportedClassName as ExportedClassName};
 **NotExportedClassName**
 
 ## Index
-
-### Constructors
-
-* [constructor](notexportedclassname.md#markdown-header-constructor)
 
 ### Properties
 

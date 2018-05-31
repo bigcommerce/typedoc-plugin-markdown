@@ -1,10 +1,11 @@
-[typedoc-plugin-markdown](../README.md) > [AB](../interfaces/ab.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [AB](../interfaces/ab.md)
 
-# Interface: AB
+# AB
 
 A generic interface extending two other generic interfaces and setting one of the type parameters.
 
 ## Type parameters
+
 #### T 
 
 The leftover generic type parameter.

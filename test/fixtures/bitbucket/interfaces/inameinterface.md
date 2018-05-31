@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [INameInterface](../interfaces/inameinterface.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [INameInterface](../interfaces/inameinterface.md)
 
-# Interface: INameInterface
+# INameInterface
 
 This is a simple interface.
 

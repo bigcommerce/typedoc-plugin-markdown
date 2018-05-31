@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [NonGenericClass](../classes/nongenericclass.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [NonGenericClass](../classes/nongenericclass.md)
 
-# Class: NonGenericClass
+# NonGenericClass
 
 This a non generic class derived from a [generic class](genericclass.md).
 

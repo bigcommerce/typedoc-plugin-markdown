@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [BaseClass](../classes/baseclass.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [BaseClass](../classes/baseclass.md)
 
-# Class: BaseClass
+# BaseClass
 
 This is a simple base class.
 

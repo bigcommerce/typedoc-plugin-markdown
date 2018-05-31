@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [DefaultExportedClass](../classes/defaultexportedclass.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [DefaultExportedClass](../classes/defaultexportedclass.md)
 
-# Class: DefaultExportedClass
+# DefaultExportedClass
 
 This class is exported via es6 export syntax.
 

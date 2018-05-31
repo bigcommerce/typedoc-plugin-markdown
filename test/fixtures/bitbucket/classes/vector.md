@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [Vector](../classes/vector.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [Vector](../classes/vector.md)
 
-# Class: Vector
+# Vector
 
 ## Hierarchy
 

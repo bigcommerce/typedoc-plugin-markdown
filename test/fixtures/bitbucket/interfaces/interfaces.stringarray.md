@@ -1,6 +1,6 @@
-[typedoc-plugin-markdown](../README.md) > [interfaces](../modules/interfaces.md) > [StringArray](../interfaces/interfaces.stringarray.md)
+[@bigcommerce/typedoc-plugin-markdown](../README.md) > [interfaces](../modules/interfaces.md) > [StringArray](../interfaces/interfaces.stringarray.md)
 
-# Interface: StringArray
+# StringArray
 
 ## Hierarchy
 
