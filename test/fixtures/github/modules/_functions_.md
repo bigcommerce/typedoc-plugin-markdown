@@ -16,6 +16,7 @@
 * [functionWithDefaults](_functions_.md#functionwithdefaults)
 * [functionWithDocLink](_functions_.md#functionwithdoclink)
 * [functionWithOptionalValue](_functions_.md#functionwithoptionalvalue)
+* [functionWithTags](_functions_.md#functionwithtags)
 * [genericFunction](_functions_.md#genericfunction)
 * [multipleSignatures](_functions_.md#multiplesignatures)
 
@@ -147,6 +148,23 @@ This is a function with rest parameter.
 
 **Returns:** `string`
 The combined string.
+
+___
+<a id="functionwithtags"></a>
+
+###  functionWithTags
+
+▸ **functionWithTags**(): `void`
+
+*Defined in [functions.ts:211](https://github.com/bigcommerce/typedoc-plugin-markdown/blob/master/test/src/functions.ts#L211)*
+
+A simple function that does something.
+
+This is a paragraph containing more information about the usage of this function.
+
+*__alpha__*: This is a sentence describing the stability of the API.
+
+**Returns:** `void`
 
 ___
 <a id="genericfunction"></a>

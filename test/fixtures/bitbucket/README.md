@@ -53,6 +53,7 @@
 * [functionWithDefaults](#markdown-header-functionwithdefaults)
 * [functionWithDocLink](#markdown-header-functionwithdoclink)
 * [functionWithOptionalValue](#markdown-header-functionwithoptionalvalue)
+* [functionWithTags](#markdown-header-functionwithtags)
 * [genericFunction](#markdown-header-genericfunction)
 * [multipleSignatures](#markdown-header-multiplesignatures)
 
@@ -352,6 +353,22 @@ This is a function with rest parameter.
 
 **Returns:** `string`
 The combined string.
+
+___
+
+###  functionWithTags
+
+▸ **functionWithTags**(): `void`
+
+*Defined in [functions.ts:211](https://bitbucket.org/owner/repository_name/src/master/functions.ts?fileviewer&amp;#x3D;file-view-default#functions.ts-211)*
+
+A simple function that does something.
+
+This is a paragraph containing more information about the usage of this function.
+
+*__alpha__*: This is a sentence describing the stability of the API.
+
+**Returns:** `void`
 
 ___
 

@@ -128,6 +128,23 @@ This is a function with rest parameter.
 The combined string.
 
 ___
+<a id="functionwithtags"></a>
+
+##  functionWithTags
+
+▸ **functionWithTags**(): `void`
+
+*Defined in [functions.ts:211](https://github.com/bigcommerce/typedoc-plugin-markdown/blob/master/test/src/functions.ts#L211)*
+
+A simple function that does something.
+
+This is a paragraph containing more information about the usage of this function.
+
+*__alpha__*: This is a sentence describing the stability of the API.
+
+**Returns:** `void`
+
+___
 <a id="genericfunction"></a>
 
 ##  genericFunction
