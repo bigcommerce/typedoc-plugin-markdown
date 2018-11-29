@@ -198,4 +198,16 @@ export function createSomething() {
  */
 export function functionWithDocLink(): void { }
 
+
+/**
+ * A simple function that does something.
+ *
+ * @remarks
+ * This is a paragraph containing more information about the usage of this function.
+ *
+ * @alpha
+ * This is a sentence describing the stability of the API.
+ */
+export function functionWithTags(): void { }
+
  /* tslint:enable */
