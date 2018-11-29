@@ -10,7 +10,7 @@
 {{/if}}
 {{~#if tags}}
 {{#each tags}}
-*__{{tagName}}__*: {{#getMarkdownFromHtml}}{{#markdown}}{{{text}}}{{/markdown}}{{/getMarkdownFromHtml}}
+{{formatTagName tagName}}{{#getMarkdownFromHtml}}{{#markdown}}{{{text}}}{{/markdown}}{{/getMarkdownFromHtml}}
 
 {{/each}}
 {{~/if}}
